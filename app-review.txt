@@ -1,1 +1,2 @@
 Application started successfully
+Application is ready to receive requests
